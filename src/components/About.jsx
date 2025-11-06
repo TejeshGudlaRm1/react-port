@@ -8,6 +8,7 @@ function About() {
   };
 
   return (
+    
     <section className="about" id="about">
       <div className="about-content">
         <div className="row">
@@ -17,9 +18,16 @@ function About() {
           <div className="design-col-2">
             <h1 className="sub-title">About Me</h1>
             <p>
-              I hold a Bachelor's degree in Computer Science and Engineering from Raghu Institute of Technology, Visakhapatnam, graduated in 2025. With a solid foundation in both web development and back-end development, I have contributed to various projects that highlight my technical skills, creative problem-solving, and practical experience with Google Cloud Platform (GCP).
-              Throughout my academic journey, I have been an active participant in hackathons, workshops, and the National Service Scheme (NSS), as well as a member of IEEE. These experiences have helped me develop strong teamwork and leadership abilities while expanding my expertise in scalable cloud solutions.
-              I am now seeking an opportunity to join an organization where I can apply my skills—including GCP, web, and back-end development—contribute to impactful projects, and grow professionally alongside the team.
+              I hold a Bachelor's degree in Computer Science and Engineering from Raghu Institute of Technology,
+              Visakhapatnam, graduated in 2025. With a solid foundation in both web development and back-end development, 
+              I have contributed to various projects that highlight my technical skills, creative problem-solving, 
+              and practical experience with Google Cloud Platform (GCP).
+              Throughout my academic journey, I have been an active participant in hackathons, workshops, 
+              and the National Service Scheme (NSS), as well as a member of IEEE. 
+              These experiences have helped me develop strong teamwork and leadership abilities while expanding my expertise in scalable cloud solutions.
+              I am now seeking an opportunity to join an organization where I can apply my skills—including GCP, 
+              web, and back-end development—contribute to impactful projects, 
+              and grow professionally alongside the team.
             </p>
 
             <div className="tab-titles">

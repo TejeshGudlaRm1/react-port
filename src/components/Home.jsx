@@ -15,7 +15,6 @@ function Home() {
     });
 
     return () => {
-      // Clean up the Typed.js instance when the component unmounts
       typed.destroy();
     };
   }, []);
@@ -37,7 +36,7 @@ function Home() {
           <a href="#contact" className="btn btn2">Hire Me!</a>
         </div>
         <div className="social-icons">
-          {/* Replace old icon tags with new React-icons components */}
+          {}
           <a href="https://www.facebook.com/tejesh.arya.5?mibextid=ZbWKwL"><BiLogoFacebook /></a>
           <a href="https://www.instagram.com/tejesh..arya_?igsh=NnJxaWEyM2Q0cnAz"><BiLogoInstagram /></a>
           <a href="https://www.linkedin.com/in/tejesh-gudla-527b81253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><BiLogoLinkedin /></a>
